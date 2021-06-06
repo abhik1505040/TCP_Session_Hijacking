@@ -6,6 +6,7 @@ This is a tcp session hijacking tool meant to be used for hijacking any ongoing 
 
 ### Dependencies
 * Attacker machine OS -> ```Linux```
+* On attacker machine -> `dniff (sudo apt-get install dsniff)`
 
 ### Running the program
 ```bash
